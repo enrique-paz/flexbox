@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	font-size:100%;
+}
+html {
+	background-color:darkslategray;
+}
+body {
+	font-family:serif;
+	background-color:white;
+}
+h1,h2,h4 {
+	font-weight: 700;
+}
+section {
+	max-width:1280px;
+	margin:0 auto;
+}
+footer {
+	color:white;
+	font-size:10px;
+	text-align:center;
+	background-color: darkslategray;
+	padding:20px;
+}
+p {
+	margin:20px 0;
+}
